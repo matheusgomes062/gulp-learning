@@ -4,13 +4,13 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^3.2.1",
     "gulp-uglify": "^3.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "moment": "^2.22.0"
   },
   "devDependencies": {
